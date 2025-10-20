@@ -1,0 +1,11 @@
+def main():
+    a = 3
+    b = a * 2 + 5
+    print(b)
+    if b > 8:
+        print(b)
+    else:
+        print(a)
+    return b
+end
+
